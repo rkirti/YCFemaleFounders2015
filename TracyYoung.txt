@@ -1,0 +1,76 @@
+- Tracy Young: co-founder of PlanGrid, a place in the cloud where
+most construction managers store their blueprints. 
+- 2010: She was a new graduate with a construction management degree. 
+- Her first project was 4000 sqft of medical office space. 
+- QA/QC in construction is much like QA in software - you confirm what 
+was built was right, mark issues on blueprints etc. 
+- "We've built the wrong thing everywhere." Turns out we are not incompetent
+builders, its just that the blueprints are constantly changing and its easy
+to build based on outdating drawings. 
+- 10k+ paying customers, construction industry's favorite construction app
+- 200k+ projects have been built with PlanGrid. 
+- 17mn+ blueprints in their cloud. 
+- PlanGrid is 92 people and actively hiring. 
+- She ordered extra blueprints for her colleagues and realized a week later - 
+that they cost $28k. She consulted her friend asking him how to pay for this
+and he cursed things saying "this should be in the cloud"
+- 2 domain experts, great idea, no technical co-founder. At this point, this was
+a pretty standard Silicon Valley story. 
+- Her boyfriend worked at Pixar before joining the team of 2 construction 
+management folks. He learnt about the company because he was sharing Google
+calendars' with Tracy.
+
+Best advice ever given to Tracy Young 
+=======================================
+- By Antoine
+- 1. Life is short. 
+- 2. Take care of the ones you love. Your company will be all-consuming, 
+     It will be easy to blame it on the company. 
+     As soon as you realize you need time with loved ones, pick up the phone. 
+- 3. Don't be afraid to try new things. 
+- 4. Never do anything that makes you unhappy.
+     A startup will take you through the highest of high and lowest of lows
+     in the same hour! She finds this a roller-coaster ride even with an 
+     amazingly supportive co-founder/husband.
+- If you are not happy doing something, you will compromise too much and you'll 
+  kill yourself trying. 
+
+Advice she would give herself from 4 years ago
+=======================================
+- 1. Be a Beaver. 
+-    They are nice vegetarian builders :-) 
+     Everything's always try to eat them. People try to trap them and make things 
+     out of them. The beaver protects itself by building massive dams where it puts 
+     its family. Beavers are small, but they take down massive big trees. 
+     "I've been gnawing at this tree for f*cking forever". But it will work hard 
+     and be patient, because it doesn't want to die. THAT is what you should follow. 
+-    Writing good code, fixing bugs, talking to users, selling to them and
+     getting them to pay for it - the only way to get through it is hard work and patience. 
+- 2. Don't Complain. 
+-    The moment you stop and complain, there will be someone who comes, work
+     harder than you and eat your lunch. When they realized construction people didn't 
+     have iPads, they first complained. Then decided to buy 16 iPads with all their savings 
+     and credit and pass those on to customers. 
+-    PlanGrid does crazy, unscalable things in customer support. They obsess
+     over internal policy that gets written. 
+-3.  Iterate and Improve. 
+     A small beaver family can build a huge dam, that protects against the millions of water flows
+     every day. Beavers constantly rebuild parts of their dams. 
+-    PlanGrid only has divisions (operations, engineering), but no titles. They
+     continued this until 50-60 employees. Every 6 months they reinvent every single department. 
+-4. Be a HoneyBadger
+-   HoneyBadgers are brave and courageous - gets bitten by a deadly snake,
+    passes out for 8-10 hours and then wakes up and eats that snake. 
+-   They went through various phases as a company where they almost died, but
+    survived. 
+-5. Be Brave / Stand up for yourself 
+-   HoneyBadgers take down lions by running between the lions legs and biting
+    the lion in its balls. You just need to be brave. 
+    She was scared starting PlanGrid - and wakes up terrified day everyday. 
+-6. Support your family
+-   PlanGrid team were very good at supporting each other and running in the
+    same direction as a group.
+-   "Business, just like nature, is relentless and unforgiving"
+-   It will be rough, tough, everything will feel like its in shambles. Just
+    remember to channel the beaver and honeybadger in you. 
+
