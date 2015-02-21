@@ -1,0 +1,66 @@
+- Founder of Shoptiques - lets you shop from the most unique boutiques around
+the world. 
+- Earlier if you want to shop from niche boutiques from LA sitting in Dallas, 
+you would need to buy a plane ticket. 
+- She moved from Krygystan to the US as a teenager. She spoke no English then. 
+- Her first job out of school was at Goldman Sachs as a banker. She travelled
+a fair bit then, and would pick up things from boutiques and later figured out 
+she couldn't refer these stores to friends who liked the gifts because these 
+stores weren't online. 
+- She investigated at HBS why these boutiques weren't online. These boutiques 
+tried to used stuff like Shopify - the internet was a big scary thing for them. 
+They couldn't take professional photos using their iPhones to market their 
+merchandise .
+- She was at her best friend's wedding in Indonesia for a week - and that's
+where she decided to find a developer, in between her maid of honor duties. 
+She paid them $2k out of her $10k in savings (which was all her networth 
+after the HBS loans). 
+- They launched in October and had 12k users registered overnight. 
+- She was working out of a coworking space -only her and the outsourced 
+developer team from Indonesia. 
+- She applied to YC hearing from others (didn't have 
+time to do the research and figure out that single, non-technical founder won't 
+be accepted), and got in. It was good that she didn't do the research. 
+
+- Her takeaways from running the company:
+1. Talk to Users
+- Was clear to her early on that there was other people apart from her friends 
+and family who wanted to shop unique stores. 
+- She had 12k people on the waitlist in her beta launch. 
+
+2. Always Ask 
+- If you don't, the answer is always no. 
+- Getting into YC - she would have never gotten that if she didn't apply bogged 
+down by "single, non-technical cofounder not accepted" advice. 
+- YC was usefult to her monetarily - since she was out of money and crashing in
+her friend's apartment. 
+
+3. Be honest with yourself 
+- What kind of business do you want to build 
+- She wanted to build a huge business, but knew that she couldn't reach that 
+with the technology she had at the time. And she avoide VCs because they need 
+earlier exists. 
+- YC gave her technical co-founders. She went to fundraise from Andressen,
+Greylock, Benchmark and SVAngels while her tech co-founders built out the new 
+awesome website. 
+- She would get big press and then her website would crash.. This caused many 
+  lonely cries in bathrooms in public buildings! 
+- She realized that the technical co-founders that she brought in were not the
+right fit and fired them. 
+- She brought in an amazing engineer from her school days, and 8 months later 
+fired him too. The guy was too engineering/technology focused, and she wanted to 
+focus more on what the users wanted. 
+- She then hired a CTO, with goals for him, and compensation tied to goals. 
+Her's is an ownership structure that is unusual and took her 1.5 years to get there 
+(only one non-technical cofounder,tech guy is hired not founder)..which leads to point #4. 
+4. Make your own path
+5. Believe and be passionate
+
+- Building marketplaces is a tough business. There is years of slow growth and
+then exponential growth. E.g. Etsy - 2 years of slow growth and then takes off. 
+Same for Ebay. Living those 2 years through is very hard when you are on the team. 
+It helped that her investors were well-acquainted with this. 
+
+- Awesome quote by Jeff Bezos - when you are 80 years old, and relating to yourself 
+your life story in a quiet moment of reflection, the telling that will be the most 
+compact and meaningful will be the series of choices you have made. 
