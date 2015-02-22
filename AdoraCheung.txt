@@ -1,0 +1,104 @@
+- Homejoy: Been around 2.5 years. Went from 0->13 markets in under 6 months, 
+  0->200 employees in under a year. 
+- Last year spoke about product-market fit, that was a rough journey. 
+- Today's talk: scaling of product, scaling organization and scaling and
+managing yourself. 
+- You dont need to scale anything until you meet some pre-requisities:
+a. You only scale anything once you find product-market fit.
+    - Do people actually want the product you've built? 
+b. Is the opportunity big? 
+c. Is the timing right? 
+    - Why is it that building your business today is the correct time? 
+    - Factors for homejoy (for why the timing is right):
+        - Tech getting more pervasive.
+        - People getting more comfortable outsourcing their lives. 
+        - Freelance economy and flexible hours getting more popular. 
+
+Scaling your product 
+--------------------
+Focus on three types of growth:
+a. Sticky growth: Build something that pepople want to use over and over again. 
+b. Viral growth: 
+    - Referral programs. Incentivize users to get other users. 
+    - Paid growth: Ads, billboards, build a sales team. Paid growth can make you 
+    but it can also kill you. If you buy users and they dont pay back over time,
+    you'll run out of money.   
+c. (?) 
+
+
+Scaling tools and automation:
+---------------------------
+- Observe what all your people are doing. What kind of tools do you need to
+create out of that? 
+- Instead of building your own, use 3rd party tools wherever possible. 
+- E.g. Decided to build their own phone-system for their call-centers 
+at Homejoy. Oops! They got more complaints for their phone-system 
+than they got from their customer service reps. 
+
+
+A note for the founder/CEO
+---------------------------
+- Over time, you will get stretched. The time you can give to different 
+things will stretch. BUT, the LEVEL OF OBSESSION you have the with the 
+QUALITY OF YOUR PRODUCT should not diminish. 
+- She read every single review that came from customers and home-service 
+owners the previous day. She sent herself every review over email - she used 
+to send them to herself over text messsages until AT&T broke it (100k text 
+messages per day!) 
+
+- Be obsessed about recruiting to get A+ players. BE AS OBSESSED ABOUT 
+RECRUITING AS YOU ARE ABOUT PRODUCT.
+  - Get dinners and drinks for all promising candidates, for instance. 
+  - She bought a ticket and went to someone's home town, to have dinner 
+  with her because she wanted that candidate really bad. 
+  - Do not underestimate the power of you showing up. 
+ 
+
+Scaling communications
+---------------------
+- Communicating with your team - changes over time. 
+- When things are changing - thats the time when communication is needed the
+most. 
+    e.g. Holding all-hands meetings once every two weeks. 
+    - That broke down for them, once they had offices in Germany. 
+- Build the right tools for flow of communication. 
+- Mission and core values: 
+    - Everyone in your company should know the mission word for word. 
+    Else they are not moving in the same boat - they wont making 
+    decisions the same way everyone else wants them to. 
+    - Core values need to be unique to the company (not something generic 
+    like honesty or innovation). 
+    e.g. Homejoy has 6: 
+    a. Nobody's above any job. --> Looking for people who respect all other people 
+    irrespective of what job they are doing. 
+    --> Every employee has to actually clean a home in first few weeks of joining. 
+    b. Temporary brokenness is better than permanent paralysis. 
+    --> Make a decision, go, commit, fail, do a post-mortem, come back and revise. 
+    c. (Get above local maxima).
+    --> Need to take risks with big decisions to become a billion dollar company.
+- People are probably making suboptimal decisions with their personal life to 
+work for you, as a small, fast-growing company. Respect that. 
+- If you are managing and coaching correctly, firing/difficult conversations
+shouldn't come out of the blue. 
+
+
+Scaling/managing yourself 
+-----------------------
+- Being a CEO is an unruly job. 
+- Need to create your own unsupport systems. Else you will keep thinking that things 
+are going to fall apart in the next day, or next five seconds. 
+- Keep getting feedback from other founders and other CEOs. At the very least, 
+you need one person to go to. 
+- Managing stress: On average, there are two great things a day and two shitty 
+things a day (for her). Find that number for yourself - acknowledge when that happens 
+"oh, ok, first bad thing of the day",and move on. That helps you be and stay sane. 
+
+Managing time 
+------------
+- CEO at some point is caught in meetings from 7 am to midnight. You need to
+start stripping those meetings. 
+- Her rule: she doesn't take meetings from 7 am to 9 am. 
+
+- tl;dr: Scaling a startup is like a really awkward car-race. You're given a scrappy 
+car from a junkyard, and asked to drive it at 200 miles an hour and along the way, 
+fix it!
