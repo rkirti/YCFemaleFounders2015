@@ -1,0 +1,78 @@
+- Facebook, Cove and Dropbox. 
+- All 3 companies were different - there was no one gameplan or
+formula that could have been applied to all three. 
+- Chances of success are higher if you are able to work from 
+first principles i.e. What are you great at? 
+- Its really hard to set aside your biases and look for better solutions. 
+- Will share her personal experiences about trying and not succeeding in 
+thinking from first principles in all her 3 stints. 
+
+Facebook before NewsFeed
+=======================
+- Barely 20 people in the audience recall FB before NewsFeed. 
+- 10 million unique newspapers every single day. 
+- People were afraid of losing "ad inventory", "contextual 
+monetizing opportunities" because newsfeed would mean 
+one single sources instead of profiles, photos etc. 
+
+- NewsFeed became an information engine that quickly told 
+what was happening in your social graph, engage with it 
+and contribute back. 
+- This was a product decision made from first principles i.e. it was improving 
+how to socialize. 
+- Original NewsFeed as built on Linux/MySQL - the architecture was done 
+by 3 recent college grads. 
+
+
+Story of Cove 
+=============
+- Decidedly lived scrappy 
+- Jokingly referred to it as a sweatshop
+
+No-Nos (learnt from Cove):
+======
+1. Patience
+    - They were too harsh on themselves
+2. Success Metrics 
+    - Compared to social/local/gaming companies of the time, 
+    and got impatient that they weren't growing as fast 
+3. Second Company Syndrome
+    - Were determined to not make the mistakes that they had made 
+    at Facebook. 
+    - At FB, infra was weak that it would break each time there was a 
+    launch. 
+    - At Cove, they focused on beautiful infra - some of their infra 
+    powers Dropbox today. That was time they could have invested elsewhere. 
+    - Startups have a binary outcome - chances of success are pretty low.
+    You need to give yourself every advantage possible. 
+    - Instead to taking advantage that they had access 
+4. Marathon not sprint 
+    - They worked 12-14 hours a day, not realized that they were no longer 
+    the 22 year olds who worked at Facebook. 
+    - They weren't thinking broadly enough and definitely not thinking 
+    from first principles. 
+    - They had plenty of funding available - being scrappy and working 
+    from a sweatshop wasn't a good idea in hindsight.
+- Every team has its strengths - identify those and you can distinguish. 
+- Cove was acquired by Dropbox - they wanted to build at scale, and Dropbox 
+allowed them to do that. 
+5. Sweat the details, depending on the context
+- Spent large amounts of time fixing bugs in Scandinavian Windows XP version 
+3 - why? because this was important for a company like Dropbox, where someone 
+losing their wedding photos or PhD thesis was a disaster. This was not the 
+case at Facebook. 
+- She learnt that Dropbox wasn't Facebook - she had to move slower than Facebook, 
+because the last 10% of polish took about 50% of engineering time. 
+- She realized that the only way to grow faster was to spread the team. When she 
+was asked by Drew about what she wanted to work on first, she said "recruiting". 
+- She was determined about growing the company from 90 to 270 in less than 7
+months, for reasons explained below (more manpower helps with sweating and perfecting 
+the details). 
+- After hiring, she also did marketing, communications and product. Her title or
+role didn't matter. Ten years from now, nobody remembers her title but her work is  
+what is remembered. 
+
+5. Baggage of success 
+- Every single day someone askes her "what are you doing next?" 
+- "As I think of my next venture, I am committed to staying patient, working 
+from first principles."
